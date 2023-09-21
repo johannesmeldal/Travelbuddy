@@ -1,0 +1,68 @@
+#ProfilePicture{
+    position: fixed;
+    top: 50px;
+    left: 10;
+    border-radius: 40%;
+    border: 0px;
+    scale: 50%;
+    width: 400px;
+    height: 400px;
+    bottom: 0%;
+    margin: 0%;
+    /* display: block; */
+    vertical-align: bottom;
+
+
+
+}
+
+.caption {
+    position: relative;
+    top: -70px;
+    display: block;
+    /* color: aqua; */
+}
+#h1{ position: fixed;
+    top: 360px;
+    left: 290px;
+    font-family: "Goudy Old Style", Garamond, "Big Caslon", "Times New Roman", serif;
+     font-size: 25px; font-style: normal;
+      font-variant: normal;
+       font-weight: 400;
+        line-height: 20.5px; }
+#h2{ position: fixed;
+    top: 410px;
+    left: 290px;
+    font-family: "Goudy Old Style", Garamond, "Big Caslon", "Times New Roman", serif;
+     font-size: 20px;
+      font-style: normal;
+       font-variant: normal;
+        font-weight: 700;
+         line-height: 20.4px;
+          max-width: 10em; }
+#h3{
+  position: fixed;
+    top: 450px;
+    left: 290px;
+    font-family: "Goudy Old Style", Garamond, "Big Caslon", "Times New Roman", serif;
+     font-size: 15px;
+      font-style: normal;
+       font-variant: normal;
+        font-weight: 700;
+         line-height: 20.4px;
+          max-width: 15em;
+}
+#Update{
+    position: fixed;
+  top: 590px;
+  left: 230px;
+  width: 300px;
+
+  
+}
+#LogOut{
+    position: fixed;
+  top: 540px;
+  left: -400px;
+  /* width: 300px; */
+}
